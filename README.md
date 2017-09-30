@@ -8,7 +8,7 @@ Project makeing shapes with CSS.
 
 Practice using CSS.
 
-https://github.com/ValerieThoma/html-css-basics/blob/master/dog-with-css.png
+https://github.com/ValerieThoma/html-css-basics/blob/master/css101/css-shape/css-dog.png
 
 
 
